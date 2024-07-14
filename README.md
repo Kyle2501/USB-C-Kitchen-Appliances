@@ -13,3 +13,5 @@ _ `...` ~
 + cheese grater 
 + pressure cooker 
 + rice steamer 
++ room fan
++ count down timer
